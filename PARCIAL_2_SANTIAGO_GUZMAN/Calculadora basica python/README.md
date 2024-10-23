@@ -47,4 +47,4 @@ Este proyecto consiste en una calculadora sencilla con interfaz gráfica creada 
 
 ## Autor
 
-Este proyecto fue creado para practicar el desarrollo de interfaces gráficas y manejo de excepciones en Python con `Tkinter`.
+Santiago Guzman Garcia
